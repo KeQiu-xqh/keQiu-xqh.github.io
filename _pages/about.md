@@ -1,22 +1,29 @@
 ---
 permalink: /
-title: "Self-Introduction"
-excerpt: "About me"
+title: "个人简介"
+excerpt: "关于我"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of PHY](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in the 22nd Turing Class. At the same time, I studied for a double degree in economics at the National School of Development.
+我是来自[北京大学](https://www.pku.edu.cn/) [物理学院](https://www.phy.pku.edu.cn/)的23级本科生。目前正在学习物理学基础课程。
 
-My research interests and skills are concentrated in the fields of ml, nlp, llms, etc. I am currently studying in Mr. Yizhou Wang's program.  <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+我的主要兴趣领域包括：
+- 理论物理
+- 编程技术
+- 数学建模
 
-<!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
+这个网站正在建设中，我会逐步上传：
+- 学习笔记
+- 编程项目
+- 物理实验报告
+- 个人博客
 
-<!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
-
-The website is still under construction. Codes and course notes are uploading quickly.
+你可以通过以下方式联系我：
+- 邮箱：coqiu003@163.com
+- GitHub：[keqiu-xqh](https://github.com/keqiu-xqh)
 
 <h2>Pageviews</h2>
 在你修改之前, 这里不是你的网站的访问信息

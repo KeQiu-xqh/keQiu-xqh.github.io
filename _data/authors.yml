@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "111"
-  uri         : "http://name.com"
-  email       : "111@stu.pku.edu.cn"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+COQIU:
+  name        : "COQIU"
+  uri         : "https://keqiu-xqh.github.io"
+  email       : "coqiu003@163.com"
+  bio         : "北京大学物理学院23级本科生"
+  avatar      : "xqh.jpg"
+  github      : "keqiu-xqh"
 
-Name2 Name2:
-  name        : "111"
-  email       : "111@stu.pku.edu.cn"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
