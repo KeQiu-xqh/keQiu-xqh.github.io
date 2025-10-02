@@ -80,18 +80,12 @@ redirect_from:
 * Sports: Badminton enthusiast
 * Reading: Passionate about novels and manga
 * Technology: Keen interest in physics and programming
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+  
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Degree: Economics, National School of Development
-
-Awards
-======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Undergraduate: Beijing, Peking University, 2023
+  
 
 <!--
 Work experience
