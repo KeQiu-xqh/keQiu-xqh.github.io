@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from School of PHY, Peking University, currently enrolled in the 22nd Turing Class. At the same time, I studied for a double degree in economics at the National School of Development.
+I am a 2023-entry undergraduate student from the School of Physics, Peking University. I have an interest in AI for Science and embodied intelligence. As a PKUer who’s still finding my feet, I use this website to document my growth.
 
-My research interests and skills are concentrated in the fields of ml, nlp, llms, etc. I am currently studying in Mr. Yizhou Wang's program.
+<h2>联系方式</h2>
 
-The website is still under construction. Codes and course notes are uploading quickly.
+- Email: [coqiu003@163.com](mailto:coqiu003@163.com)
+- GitHub: [keqiu-xqh](https://github.com/keqiu-xqh)
 
 <h2>Pageviews</h2>
-在你修改之前, 这里不是你的网站的访问信息
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
-<h2>Contact me</h2>
 
-
-[Email](mailto:2200012917@stu.pku.edu.cn) / [Github](https://github.com/ICUlizhi) / [Wechat](../images/wechat.png) 
+<!-- 你可以去 https://mapmyvisitors.com/ 注册一个新的访问统计，获取新的脚本代码来替换这里 --> 
 
