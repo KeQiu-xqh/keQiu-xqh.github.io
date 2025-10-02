@@ -47,7 +47,39 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
+# Basic Information
+
+* Name: COQIU
+* Education: Undergraduate Student, School of Physics, Peking University
+* Email: [coqiu003@163.com](mailto:coqiu003@163.com)
+* Homepage: [keqiu-xqh.github.io](https://keqiu-xqh.github.io/)
+* GitHub: [keqiu-xqh](https://github.com/keqiu-xqh)
+
+# Education
+
+* 2023.9 - Present: Undergraduate Student in Physics
+  * School of Physics, Peking University
+
+# Technical Skills
+
+* Programming Languages: Python, C++
+* Physics: Solid foundation in physics, strong analytical abilities
+* English: Proficient in reading and writing
+
+# Awards & Honors
+
+* 2023 Gold Medal in the 39th China Physics Olympiad (CPhO)
+* [Other awards can be added here]
+
+# Projects
+
+[Future projects will be added here]
+
+# Personal Interests
+
+* Sports: Badminton enthusiast
+* Reading: Passionate about novels and manga
+* Technology: Keen interest in physics and programming
 * Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
 * Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
 
