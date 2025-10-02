@@ -1,23 +1,44 @@
 ---
 layout: archive
-title: "Notes"
+title: "学习笔记"
 permalink: /Notes/
 author_profile: true
 ---
 
 {% include base_path %}
 
+# 课程笔记
 
+## 物理课程
+* [理论力学](/Notes/theoretical-mechanics/)
+* [数学物理方法](/Notes/mathematical-physics/)
+* [量子力学](/Notes/quantum-mechanics/)
 
+## 数学课程
+* [高等数学](/Notes/calculus/)
+* [线性代数](/Notes/linear-algebra/)
+* [概率论](/Notes/probability/)
 
-## 观点与本站发展
+## 编程相关
+* [Python学习笔记](/Notes/python/)
+* [C++学习笔记](/Notes/cpp/)
 
+# 添加新笔记
 
-  <style>
-
-        /* 时间线容器 */
-        .timeline-container {
-            position: relative;
+如何添加新的笔记：
+1. 在 `_Notes` 文件夹中创建新的 .md 文件
+2. 文件开头添加以下格式：
+```yaml
+---
+title: "笔记标题"
+collection: Notes
+permalink: /Notes/笔记标识符/
+tags:
+  - 标签1
+  - 标签2
+---
+```
+3. 使用 Markdown 格式编写笔记内容;
             max-width: 800px;
             margin: 0 auto;
         }
