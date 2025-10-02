@@ -11,8 +11,9 @@ author_profile: true
     .notes-container {
         max-width: 900px;
         margin: 0 auto;
+        padding: 20px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    }
+        background-color: transparent;
     
     .subject-section {
         margin-bottom: 40px;
@@ -196,8 +197,7 @@ tags:
   - 标签2
 ---
 ```
-3. 使用 Markdown 格式编写笔记内容;
-            max-width: 800px;
+3. 使用 Markdown 格式编写笔记内容
             margin: 0 auto;
         }
 
